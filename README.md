@@ -16,7 +16,6 @@ All-in-one cyber security toolkit built for Malawi - detect Airtel Money / TNM M
 | `gps_locator.py` | GPS location helper |
 | `lost_phone_tracker.py` | Track lost phone via link |
 | `device_scanner.py` | Scan network devices |
-| `fretboard.py` | Bonus - Guitar fretboard trainer |
 
 ### 📲 Install in Termux
 
